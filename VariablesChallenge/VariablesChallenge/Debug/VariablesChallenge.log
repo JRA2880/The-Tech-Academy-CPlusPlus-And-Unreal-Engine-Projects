@@ -1,0 +1,3 @@
+﻿  VariablesChallenge.cpp
+D:\GitHub\The-Tech-Academy-CPlusPlus-And-Unreal-Engine-Projects\VariablesChallenge\VariablesChallenge\VariablesChallenge.cpp(22,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  VariablesChallenge.vcxproj -> D:\GitHub\The-Tech-Academy-CPlusPlus-And-Unreal-Engine-Projects\VariablesChallenge\Debug\VariablesChallenge.exe

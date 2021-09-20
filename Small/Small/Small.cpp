@@ -7,7 +7,12 @@
 using std::cout;
 
 int main()
-{
+{  
+    cout << "Hello!" << '\n';
+    cout << '\n' << '\n';
+    int i;
+    //Fractional part will be lost in static cast
+    i = static_cast<int>(4.9);
     int total = add(3.0, 4.0);
     cout << "3 + 4 is " << total << '\n';
 

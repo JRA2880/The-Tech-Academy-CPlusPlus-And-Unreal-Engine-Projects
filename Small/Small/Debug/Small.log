@@ -1,2 +1,3 @@
-﻿  Functions.cpp
+﻿  Small.cpp
+D:\GitHub\The-Tech-Academy-CPlusPlus-And-Unreal-Engine-Projects\Small\Small\Small.cpp(16,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
   Small.vcxproj -> D:\GitHub\The-Tech-Academy-CPlusPlus-And-Unreal-Engine-Projects\Small\Debug\Small.exe
