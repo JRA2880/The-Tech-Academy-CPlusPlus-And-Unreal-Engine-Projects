@@ -1,0 +1,3 @@
+﻿  ConditionalStatementsChallenge.cpp
+D:\GitHub\The-Tech-Academy-CPlusPlus-And-Unreal-Engine-Projects\ConditionalStatementsChallenge\ConditionalStatementsChallenge\ConditionalStatementsChallenge.cpp(28,9): warning C4101: 'rentalDays': unreferenced local variable
+  ConditionalStatementsChallenge.vcxproj -> D:\GitHub\The-Tech-Academy-CPlusPlus-And-Unreal-Engine-Projects\ConditionalStatementsChallenge\Debug\ConditionalStatementsChallenge.exe
