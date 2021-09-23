@@ -1,0 +1,3 @@
+﻿  ClassChallenge.cpp
+D:\GitHub\The-Tech-Academy-CPlusPlus-And-Unreal-Engine-Projects\ClassChallenge\ClassChallenge\ClassChallenge.cpp(70,13): error C2374: 'monster1': redefinition; multiple initialization
+D:\GitHub\The-Tech-Academy-CPlusPlus-And-Unreal-Engine-Projects\ClassChallenge\ClassChallenge\ClassChallenge.cpp(69): message : see declaration of 'monster1'
