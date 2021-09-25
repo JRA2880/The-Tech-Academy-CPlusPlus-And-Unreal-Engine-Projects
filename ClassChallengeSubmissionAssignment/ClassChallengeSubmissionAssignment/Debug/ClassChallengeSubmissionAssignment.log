@@ -1,0 +1,6 @@
+﻿  ClassChallengeSubmissionAssignment.cpp
+D:\GitHub\The-Tech-Academy-CPlusPlus-And-Unreal-Engine-Projects\ClassChallengeSubmissionAssignment\ClassChallengeSubmissionAssignment\ClassChallengeSubmissionAssignment.cpp(13,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\GitHub\The-Tech-Academy-CPlusPlus-And-Unreal-Engine-Projects\ClassChallengeSubmissionAssignment\ClassChallengeSubmissionAssignment\ClassChallengeSubmissionAssignment.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\GitHub\The-Tech-Academy-CPlusPlus-And-Unreal-Engine-Projects\ClassChallengeSubmissionAssignment\ClassChallengeSubmissionAssignment\ClassChallengeSubmissionAssignment.cpp(15,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\GitHub\The-Tech-Academy-CPlusPlus-And-Unreal-Engine-Projects\ClassChallengeSubmissionAssignment\ClassChallengeSubmissionAssignment\Circle.h(17,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ClassChallengeSubmissionAssignment.vcxproj -> D:\GitHub\The-Tech-Academy-CPlusPlus-And-Unreal-Engine-Projects\ClassChallengeSubmissionAssignment\Debug\ClassChallengeSubmissionAssignment.exe
