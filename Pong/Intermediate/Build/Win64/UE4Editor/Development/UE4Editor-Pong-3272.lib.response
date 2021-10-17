@@ -1,0 +1,28 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Pong-3272.dll"
+/IGNORE:4221
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+"D:\The Tech Academy - Game Developer Boot Camp\C++ And Unreal Engine Course\Blueprint and C++ Integration in Unreal Engine 4\02-project-setup\Pong\Intermediate\Build\Win64\UE4Editor\Development\Pong\PCH.Pong.h.obj"
+"D:\The Tech Academy - Game Developer Boot Camp\C++ And Unreal Engine Course\Blueprint and C++ Integration in Unreal Engine 4\02-project-setup\Pong\Intermediate\Build\Win64\UE4Editor\Development\Pong\Ball.cpp.obj"
+"D:\The Tech Academy - Game Developer Boot Camp\C++ And Unreal Engine Course\Blueprint and C++ Integration in Unreal Engine 4\02-project-setup\Pong\Intermediate\Build\Win64\UE4Editor\Development\Pong\Boundary.cpp.obj"
+"D:\The Tech Academy - Game Developer Boot Camp\C++ And Unreal Engine Course\Blueprint and C++ Integration in Unreal Engine 4\02-project-setup\Pong\Intermediate\Build\Win64\UE4Editor\Development\Pong\GameHUD.cpp.obj"
+"D:\The Tech Academy - Game Developer Boot Camp\C++ And Unreal Engine Course\Blueprint and C++ Integration in Unreal Engine 4\02-project-setup\Pong\Intermediate\Build\Win64\UE4Editor\Development\Pong\Paddle.cpp.obj"
+"D:\The Tech Academy - Game Developer Boot Camp\C++ And Unreal Engine Course\Blueprint and C++ Integration in Unreal Engine 4\02-project-setup\Pong\Intermediate\Build\Win64\UE4Editor\Development\Pong\Pong.cpp.obj"
+"D:\The Tech Academy - Game Developer Boot Camp\C++ And Unreal Engine Course\Blueprint and C++ Integration in Unreal Engine 4\02-project-setup\Pong\Intermediate\Build\Win64\UE4Editor\Development\Pong\PongGameMode.cpp.obj"
+"D:\The Tech Academy - Game Developer Boot Camp\C++ And Unreal Engine Course\Blueprint and C++ Integration in Unreal Engine 4\02-project-setup\Pong\Intermediate\Build\Win64\UE4Editor\Development\Pong\Pong.generated.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.15\Engine\Intermediate\Build\Win64\UE4Editor\Development\Pong\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.15\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\The Tech Academy - Game Developer Boot Camp\C++ And Unreal Engine Course\Blueprint and C++ Integration in Unreal Engine 4\02-project-setup\Pong\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Pong-3272.lib"

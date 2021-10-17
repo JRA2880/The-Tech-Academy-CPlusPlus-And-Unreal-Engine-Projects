@@ -1,0 +1,4 @@
+﻿  HelloBoost.cpp
+  Unknown compiler version - please run the configure tests and report the results
+D:\GitHub\The-Tech-Academy-CPlusPlus-And-Unreal-Engine-Projects\HelloBoost\HelloBoost\HelloBoost.cpp(10,24): warning C4101: 'a': unreferenced local variable
+  HelloBoost.vcxproj -> D:\GitHub\The-Tech-Academy-CPlusPlus-And-Unreal-Engine-Projects\HelloBoost\Debug\HelloBoost.exe
