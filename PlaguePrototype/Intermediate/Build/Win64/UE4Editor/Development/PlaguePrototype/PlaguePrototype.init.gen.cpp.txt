@@ -1,0 +1,3 @@
+D:\The Tech Academy - Game Developer Boot Camp\Unreal Projects\PlaguePrototype\Intermediate\Build\Win64\UE4Editor\Development\PlaguePrototype\Definitions.PlaguePrototype.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

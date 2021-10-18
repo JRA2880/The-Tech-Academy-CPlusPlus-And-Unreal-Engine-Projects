@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PlaguePrototype.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{6E601CB2-3AE0-4312-A754-428D52D87744}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PlaguePrototype.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PlaguePrototypeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{7FA2B274-BFF0-4905-B279-395F1FF99CDE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PlaguePrototype">
+      <UniqueIdentifier>{B78ECFCD-EC01-450A-A40F-D2A12333FEC9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PlaguePrototype\PlaguePrototype.Build.cs">
+      <Filter>Source\PlaguePrototype</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PlaguePrototype\PlaguePrototype.cpp">
+      <Filter>Source\PlaguePrototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PlaguePrototype\PlaguePrototype.h">
+      <Filter>Source\PlaguePrototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PlaguePrototype\PrototypeGameModeBase.cpp">
+      <Filter>Source\PlaguePrototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PlaguePrototype\PrototypeGameModeBase.h">
+      <Filter>Source\PlaguePrototype</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
