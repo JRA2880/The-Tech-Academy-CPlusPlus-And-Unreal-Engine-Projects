@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"D:\\The Tech Academy - Game Developer Boot Camp\\Unreal Projects\\PlaguePrototype\\Source\\PlaguePrototype\\PlaguePrototype.Build.cs",
-		"D:\\The Tech Academy - Game Developer Boot Camp\\Unreal Projects\\PlaguePrototype\\Source\\PlaguePrototype.Target.cs",
-		"D:\\The Tech Academy - Game Developer Boot Camp\\Unreal Projects\\PlaguePrototype\\Source\\PlaguePrototypeEditor.Target.cs"
-	],
-	"EngineVersion": "4.26.2"
-}

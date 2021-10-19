@@ -1,2 +1,0 @@
-D:\The Tech Academy - Game Developer Boot Camp\Unreal Projects\PlaguePrototype\Intermediate\Build\Win64\UE4Editor\Development\PlaguePrototype\Definitions.PlaguePrototype.h
-D:\The Tech Academy - Game Developer Boot Camp\Unreal Projects\PlaguePrototype\Source\PlaguePrototype\PlaguePrototype.h
